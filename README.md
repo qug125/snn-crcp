@@ -4,7 +4,7 @@ A comparative study of Spiking Neural Networks (SNNs) and Convolutional Neural N
 
 ## Overview
 
-This project implements and compares ResNet18-based architectures in both traditional CNN and SNN variants for colorectal polyp classification. The codebase supports training from scratch or using pretrained weights, with comprehensive experiment management and evaluation tools.
+This project implements and compares ResNet18-based architectures in both traditional CNN and SNN variants for binary serrated colorectal polyp subtype classification. The codebase supports training from scratch or using pretrained weights, with comprehensive experiment management and evaluation tools.
 
 ## Features
 
