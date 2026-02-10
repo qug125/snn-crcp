@@ -1,4 +1,4 @@
-# SNN vs CNN for Binary Colorectal Polyp Classification (HP versus SSA)
+# SNN vs CNN for Binary Serrated Colorectal Polyp Classification (HP versus SSA)
 
 A comparative study of Spiking Neural Networks (SNNs) and Convolutional Neural Networks (CNNs) for histopathological image classification using the DHMC MHIST dataset.
 
